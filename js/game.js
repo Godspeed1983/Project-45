@@ -149,7 +149,7 @@ class Game{
         push()
         textSize(40)
         fill("white")
-        text(GmaeOver,Width/2,height/2);
+        text(GameOver,width/2,height/2);
         //  print the gameover message
         pop()
         }
